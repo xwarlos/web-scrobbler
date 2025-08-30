@@ -2659,4 +2659,10 @@ export default <ConnectorMeta[]>[
 		js: 'gravity.fm.js',
 		id: 'gravity',
 	},
+	{
+		label: 'addy.fm',
+		matches: ['*://addy.fm/*'],
+		js: 'addy.fm.js',
+		id: 'addy.fm',
+	},
 ];
